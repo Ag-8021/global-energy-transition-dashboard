@@ -28,7 +28,7 @@ The dashboard enables users to visualize global energy data, compare countries, 
 
 ### Dashboard Walkthrough (MP4)
 
-> **assets/demo.mp4**
+> [Watch Full Dashboard Demo](assets/demo.mp4)
 
 ---
 
@@ -36,19 +36,19 @@ The dashboard enables users to visualize global energy data, compare countries, 
 
 | Home Dashboard | World Leaderboard |
 |----------------|-------------------|
-| *assets/home.jpg* | *assets/leaderboard.jpg* |
+| ![Home Dashboard](assets/home.jpg)| ![World Leaderboard](assets/leaderboard.jpg) |
 
 | Metrics Comparison | Green Score |
 |--------------------|-------------|
-| *assets/comparison.jpg* | *assets/green-score.jpg* |
+| ![Metrics Comparison](assets/comparison.jpg) | ![Green Score](assets/green-score.jpg)|
 
 | World Map | Trend Projection |
 |-----------|------------------|
-| *assets/world-map.jpg* | *assets/trend-projection.jpg* |
+| ![World Map](assets/world-map.jpg) | ![Trend Projection](assets/trend-projection.jpg) |
 
 | Country Profile |
 |-----------------|
-| *assets/country-profile.jpg* |
+| ![Country Profiles](assets/country-profile.jpg) |
 
 ---
 
