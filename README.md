@@ -28,7 +28,7 @@ The dashboard enables users to visualize global energy data, compare countries, 
 
 ### Dashboard Walkthrough (MP4)
 
-> [Watch Full Dashboard Demo](assets/demo.mp4)
+https://github.com/user-attachments/assets/77eaeca8-f21b-4ce4-a2f6-212b2a2d62e9
 
 ---
 
