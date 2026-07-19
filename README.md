@@ -16,19 +16,19 @@ The dashboard enables users to visualize global energy data, compare countries, 
 
 **Streamlit App**
 
-> **(Add Streamlit Deployment Link Here)**
+> **https://global-energy-transition-dashboard.streamlit.app/**
 
 **GitHub Repository**
 
-> **(Add GitHub Repository Link Here)**
+> **https://github.com/Ag-8021/global-energy-transition-dashboard/**
 
 ---
 
 # Demo
 
-### Dashboard Walkthrough (GIF)
+### Dashboard Walkthrough (MP4)
 
-> **(Insert Demo GIF Here)**
+> **assets/demo.mp4**
 
 ---
 
@@ -36,19 +36,19 @@ The dashboard enables users to visualize global energy data, compare countries, 
 
 | Home Dashboard | World Leaderboard |
 |----------------|-------------------|
-| *(Insert Screenshot)* | *(Insert Screenshot)* |
+| *assets/home.jpg* | *assets/leaderboard.jpg* |
 
 | Metrics Comparison | Green Score |
 |--------------------|-------------|
-| *(Insert Screenshot)* | *(Insert Screenshot)* |
+| *assets/comparison.jpg* | *assets/green-score.jpg* |
 
 | World Map | Trend Projection |
 |-----------|------------------|
-| *(Insert Screenshot)* | *(Insert Screenshot)* |
+| *assets/world-map.jpg* | *assets/trend-projection.jpg* |
 
 | Country Profile |
 |-----------------|
-| *(Insert Screenshot)* |
+| *assets/country-profile.jpg* |
 
 ---
 
@@ -210,6 +210,16 @@ Global-Energy-Transition-Dashboard/
 ├── requirements.txt
 ├── owid-energy-data.csv
 │
+├── assets/
+│   ├── home.jpg
+│   ├── leaderboard.jpg
+│   ├── comparison.jpg
+│   ├── green-score.jpg
+│   ├── world-map.jpg
+│   ├── trend-projection.jpg
+│   ├── country-profile.jpg
+│   └── demo.mp4
+│
 ├── pages/
 │   ├── 1_World_Leaderboard.py
 │   ├── 2_Metrics_Comparison.py
@@ -289,9 +299,9 @@ Possible extensions include:
 
 **Aarav Gupta**
 
-GitHub: **(Add GitHub Profile Link)**
+GitHub: **https://github.com/Ag-8021/**
 
-LinkedIn: **(Add LinkedIn Profile Link)**
+LinkedIn: **https://www.linkedin.com/in/aarav-gupta-733707421/**
 
 ---
 
